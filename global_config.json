@@ -93,7 +93,7 @@
         "branch": "master"
       },
       "redpill_load": {
-        "source_url": "https://github.com/tossp/redpill-load.git",
+        "source_url": "https://github.com/mrgs83/redpill-load.git",
         "branch": "42218-20211021"
       }
     },
@@ -171,7 +171,7 @@
         "branch": "master"
       },
       "redpill_load": {
-        "source_url": "https://github.com/tossp/redpill-load.git",
+        "source_url": "https://github.com/mrgs83/redpill-load.git",
         "branch": "42218-20211021"
       }
     }
